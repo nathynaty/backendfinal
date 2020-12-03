@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vehiculo: one
+  propietario: one
+
+two:
+  vehiculo: two
+  propietario: two
